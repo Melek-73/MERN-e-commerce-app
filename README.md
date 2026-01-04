@@ -106,7 +106,7 @@ root/
 
 ```bash
 git clone https://github.com/Melek-73/MERN-e-commerce-app.git
-cd ecommerce-mern
+cd MERN-e-commerce-app
 ```
 
 ---
