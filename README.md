@@ -104,8 +104,12 @@ root/
 
 ### 1️⃣ Clone the repository
 
+```bash
 git clone https://github.com/Melek-73/MERN-e-commerce-app.git
 cd ecommerce-mern
+```
+
+---
 
 ### 2️⃣ Backend Setup
 
@@ -118,7 +122,7 @@ Create a `.env` file in `backend/`:
 
 ```
 PORT=3000
-MONGO_URI=your_mongodb_connection_string
+MONGO_URI=mongodb_connection_string
 ```
 
 Run the backend server:
